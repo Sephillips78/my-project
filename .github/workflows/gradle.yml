@@ -28,5 +28,5 @@ jobs:
       with:
         image: sephillips77/java-project
         registry: docker.io
-        username: ${{secrets.sephillips77}}
-        password: ${{secrets.Dockerisfun77!}}
+        username: 'sephillips77'
+        password: 'Dockerisfun77!'
